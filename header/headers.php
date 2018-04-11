@@ -4,7 +4,7 @@
     header('Access-Control-Max-Age: 1000');
     header('Access-Control-Allow-Headers: Content-Type, Content-Range, Content-Disposition, Content-Description');
 
-header("Content-Type:application/jsonp");
+header("Content-Type:application/json");
 header("HTTP/1.1 ") ;
 
 ?>
